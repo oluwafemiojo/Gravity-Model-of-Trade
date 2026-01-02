@@ -25,7 +25,7 @@ This project follows Shepherd et al., (2019) user guide to the Gravity Model of 
 
 ### 3. Results
 
-###### _The results can be found in the report attached: [FRE 502 Assignment.pdf](https://github.com/user-attachments/files/24406344/FRE.502.Assignment.pdf)
+###### _The results can be found in the report attached: [link](https://github.com/user-attachments/files/24406344/FRE.502.Assignment.pdf)
 
 
 
